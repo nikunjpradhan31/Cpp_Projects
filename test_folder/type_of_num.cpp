@@ -1,6 +1,4 @@
 //Programmer: Nikunj Pradhan
-// Student ID: 18262640
-// Section: 303
 // Date: 9/19/2023
 // File: Lab4.cpp
 // Purpose: Learning if else branching statements, loops, relational operator, and logical operator
