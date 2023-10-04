@@ -1,6 +1,4 @@
 // Nikunj Pradhan
-// 18261640
-// 303
 // 10/3/2023
 // lab4.cpp
 // Purpose: Calculate Sales and Total
