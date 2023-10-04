@@ -1,9 +1,7 @@
 //Programmer: Nikunj Pradhan
-// Student ID: 18261640
-// Section: 303
 // Date: 9/5/23
 // File: lab2.cpp
-// Purpose: Calulates the final price of an item after applying for a discount
+// Purpose: Calculates the final price of an item after applying for a discount
 
 #include <iostream>
 using namespace std;
