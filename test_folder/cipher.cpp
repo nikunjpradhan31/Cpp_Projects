@@ -1,8 +1,6 @@
 // Programmer: Nikunj Pradhan  
 // Date: 9/27/2023
-// File: HW3.cpp
-// Assignment: HW3
-// Purpose: this file encrypts and decrypts files for Caeser Cipher
+// Purpose: This file encrypts and decrypts files for Caeser Cipher
 #include <iostream>
 using namespace std;
 
