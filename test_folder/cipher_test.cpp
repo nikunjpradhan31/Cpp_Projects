@@ -1,9 +1,7 @@
 // Programmer: Nikunj Pradhan
-// Student ID: 18261640
-// Section: 303
 // Date: 9/26/2023
 // File: Lab5.cpp
-// Purpose: Obtaining the sum of the ascii values within a string
+// Purpose: Obtaining the sum of the ASCII values within a string
 #include<iostream>
 using namespace std;
 int main()
