@@ -1,7 +1,7 @@
 //Programmer: Nikunj Pradhan
 // Date: 9/19/2023
 // File: Lab4.cpp
-// Purpose: Learning if else branching statements, loops, relational operator, and logical operator
+// Purpose: learning if else branching statements, loops, relational operators, and logical operator
 
 #include <iostream>
 using namespace std;
