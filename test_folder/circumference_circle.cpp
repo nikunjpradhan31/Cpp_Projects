@@ -1,9 +1,7 @@
 //Nikunj Pradhan
-// 18261640
-// CS1580 303
 // 9/12/2023
 // lab3.cpp
-// Purpose: Write a porgram that takes a Radius as input from the user and calculates the following parameters
+// Purpose: Write a program that takes a Radius as input from the user and calculates the following parameters
 
 #include <iostream>
 
