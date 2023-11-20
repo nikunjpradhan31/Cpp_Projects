@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-  int anxiety;
+ long long  int anxiety;
   bool pass_check; //this variable checks if Jamie is calm enough to do the procedure.
   bool activity = false; //checks if Jamie has done an activity
   bool remember_show = false; // this variable checks if Jamie
